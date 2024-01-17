@@ -1,1 +1,1 @@
-# IU-DataScience
+# IU-Data Science course 
